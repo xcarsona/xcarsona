@@ -17,6 +17,7 @@ Science communication initiative making neuroscience accessible to students.
 
 - Algoverse AI Research Program
 - ThinkNeuro Research Internship
+- St. Jude Children's Research Hospital
 - Harris Neuroscience Internship
 - CBU Research Assistant
 
