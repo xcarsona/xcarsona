@@ -10,9 +10,6 @@ AI-powered platform helping students discover scholarships, internships, researc
 ### Polixxy
 Civic-tech platform helping young people engage with legislation and public policy.
 
-### NeuroNookss
-Science communication initiative making neuroscience accessible to students.
-
 ## Research
 
 - Algoverse AI Research Program
