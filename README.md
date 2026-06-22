@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Carson Alexander
 
-<!--
-**xcarsona/xcarsona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student founder interested in AI, neuroscience, civic technology, and education.
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Synthesis
+AI-powered platform helping students discover scholarships, internships, research opportunities, and extracurriculars.
+
+### Polixxy
+Civic-tech platform helping young people engage with legislation and public policy.
+
+### NeuroNookss
+Science communication initiative making neuroscience accessible to students.
+
+## Research
+
+- Algoverse AI Research Program
+- ThinkNeuro Research Internship
+- Harris Neuroscience Internship
+- CBU Research Assistant
+
+## Interests
+
+Artificial Intelligence
+Neuroscience
+Education Technology
+Civic Technology
+Public Policy
+
+## Connect
+
+LinkedIn: www.linkedin.com/in/philip-alexander-379623351
+Email: carson.alexander1@outlook.com
